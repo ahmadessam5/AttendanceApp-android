@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">check in</string>
+    <string name="check_in_with_camera">Camera Check-in</string>
+    <string name="Logs">Logs</string>
+    <string name="check_in">Check-in</string>
+    <string name="check_out">Check-out</string>
+    <string name="out">Out</string>
+    <string name="in">In</string>
+    <string name="camera_check_in">Camera Check-in</string>
+</resources>
